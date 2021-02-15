@@ -1,0 +1,19 @@
+{
+  "name": "cloud",
+  "version": "1.0.0",
+  "description": "Cloud Assignment",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jakkula134/cloud.git"
+  },
+  "author": "Vamshi Jakkula",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jakkula134/cloud/issues"
+  },
+  "homepage": "https://github.com/Jakkula134/cloud#readme"
+}
